@@ -1,4 +1,4 @@
-# CIS 2750 Assignment 4
+# 8 ball Game
 Website that allows users to play a game of 8-ball.
 Includes: 
 C library that implements a number of functions
